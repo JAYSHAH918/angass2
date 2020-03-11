@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'employee2';
+  title = 'emp2';
+
+  quali  = ['MCA','BTech','BCA'];
+
+  exp=['1','2','>2'];
 }
